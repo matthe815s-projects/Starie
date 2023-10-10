@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "owners": ["207989356059688962"],
+    "default_modules": [],
+    "log_level": "INFO",
+    "log_folder": "logs",
+    "db": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "admin"
+    }
+}
